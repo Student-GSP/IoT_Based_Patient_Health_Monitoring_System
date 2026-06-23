@@ -73,13 +73,9 @@ The MAX30100 sensor and OLED display communicate with the ESP32 using the I2C pr
 ## System Architecture
 
 MAX30100 Sensor → ESP32 → OLED Display
-
                      ↓
-
-               Web Dashboard
-
+              Web Dashboard
                      ↓
-
               Remote Monitoring
 
 ## Working Principle
